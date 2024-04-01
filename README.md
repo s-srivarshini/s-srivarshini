@@ -11,20 +11,17 @@ Let's connect!
 ## Tech Stack
 
 ### 🧠 AI & Machine Learning Stack
-
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-5C3EE8?style=flat&logo=ArtificialIntelligence&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=MachineLearning&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-3776AB?style=flat&logo=NLP&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=ComputerVision&logoColor=white)
 
 ### ☁️ Cloud Platforms
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-F80000?style=flat&logo=Oracle&logoColor=white)
 
 ### 💻 Programming Languages & Tools
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white)
@@ -32,10 +29,6 @@ Let's connect!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🔧 Configuration & Automation Tools
 
