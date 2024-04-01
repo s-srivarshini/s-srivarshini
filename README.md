@@ -29,9 +29,6 @@ Let's connect!
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
-
-### 🌐 Web Technologies
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -39,19 +36,6 @@ Let's connect!
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 📊 Monitoring & Project Management Tools
-
-![DataDog](https://img.shields.io/badge/-DataDog-632CA6?style=flat&logo=DataDog&logoColor=white)
-![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=NewRelic&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=Splunk&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=Jira&logoColor=white)
-
-### 🛠 Version Control & CI/CD
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=flat&logo=Jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 🔧 Configuration & Automation Tools
 
