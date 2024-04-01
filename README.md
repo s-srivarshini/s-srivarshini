@@ -6,8 +6,6 @@ I'm Srivarshini - a Machine Learning Engineer and cloud infrastructure specialis
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I mentor students by day and decode neural networks by night.
 
-Let's connect!
-
 ## Tech Stack
 
 ### 🧠 AI & Machine Learning Stack
