@@ -1,5 +1,5 @@
 # 👋 Hi there
-I'm Srivarshini - a Machine Learning Engineer and cloud infrastructure specialist with a knack for pushing the boundaries of AI and Cloud Computing.
+I'm Srivarshini - a Machine Learning Engineer and Cloud Infrastructure specialist with a knack for pushing the boundaries of AI and Cloud Computing.
 - 🔭 Focusing on: Currently delving into Causal ML Algorithms and looking to bring my cloud architecture and AI skills to a dynamic team.
 - 💬 Ask me about AI, Cloud
 - 📫 Reach out: [ssrivarshini1998@gmail.com](mailto:ssrivarshini1998@gmail.com)
